@@ -2,17 +2,12 @@ body
 {
     color: #333;
     text-align: center;
-<<<<<<< HEAD
     font-family: Courier;
-=======
     font-family: Georgia, serif;
->>>>>>> development
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-<<<<<<< HEAD
-=======
 
 #cabecera
 {
@@ -31,7 +26,6 @@ body
     font-size: 0.8em;
 }
 
->>>>>>> development
 #container
 {
     width: 70%;
